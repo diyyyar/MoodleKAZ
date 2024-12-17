@@ -38,6 +38,15 @@ The application is designed to:
 
 
 
+## Project Trailer
+
+![Снимок экрана 2024-12-18 003704](https://github.com/user-attachments/assets/4eeb7884-4c4e-4d18-9824-dd2729007f4c)
+
+
+![Снимок экрана 2024-12-18 003733](https://github.com/user-attachments/assets/90defdf6-a195-4465-b79c-d59e34a64a93)
+
+
+
 Start by running `npm install` to install dependencies, and then `npm start` to launch the development server.
 
 
